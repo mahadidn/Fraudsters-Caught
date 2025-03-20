@@ -14,9 +14,9 @@ Deploy the app, send it to the scammer, and if he accepts access then we can cap
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`TELEGRAM_BOT_TOKEN`
+`VITE_TELEGRAM_BOT_TOKEN`
 
-`TELEGRAM_CHAT_ID`
+`VITE_TELEGRAM_CHAT_ID`
 
 
 ## Installation
